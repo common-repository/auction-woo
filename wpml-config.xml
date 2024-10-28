@@ -1,0 +1,16 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="0">bidding_for_user</custom-type>
+    <custom-type translate="0">city_bid_for_woo</custom-type>
+    <custom-type translate="0">offer_product</custom-type>
+  </custom-types>
+  <custom-fields>
+    <custom-field action="ignore">ct_bid_min_increment</custom-field>
+    <custom-field action="ignore">ct_bid_start_date</custom-field>
+    <custom-field action="ignore">ct_bid_start_time</custom-field>
+    <custom-field action="ignore">ct_bid_end_date</custom-field>
+    <custom-field action="ignore">ct_bid_end_time</custom-field>
+    <custom-field action="ignore">ct_bid_type</custom-field>
+    <custom-field action="ignore">ct_bid_user_role</custom-field>
+  </custom-fields>
+</wpml-config>

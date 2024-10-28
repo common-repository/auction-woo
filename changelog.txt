@@ -1,0 +1,7 @@
+*** Cloud Technologies Auction For WooCommerce Change Log***
+
+2024-10-10 - version 1.0.0
+* initial Release.
+2024-10-12 - version 1.0.1
+* Add-  Offer Your Product.
+
